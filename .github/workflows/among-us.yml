@@ -1,0 +1,29 @@
+name: Generate Among Us Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Among Us graph
+        uses: DevAbhi905/among-us-contribution-graph@main
+        with:
+          github_user_name: nilaysoni25
+          outputs: |
+            dist/among-us-contribution-graph.svg
+            dist/among-us-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
