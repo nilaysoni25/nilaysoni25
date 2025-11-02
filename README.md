@@ -43,13 +43,6 @@
   </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
-  <img alt="Among Us contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -60,12 +53,6 @@
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="85" />
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
-  <img alt="Among Us contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
-</picture>
 
 ###
 
