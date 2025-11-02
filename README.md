@@ -1,6 +1,6 @@
 <h2 align="left">I'm Nilay,<br>turning raw data into real insights 📈 <br>and vibing on beats 🎧</h2>
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="oracle logo"  />
@@ -22,11 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="42" alt="azure logo"  />
 </div>
 
-
+###
 
 <img align="right" height="99" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 
-
+###
 
 <div align="left">
   <a href="mailto:nilaysoni25@gmail.com" target="_blank">
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/pacman-contribution-graph-dark.svg">
@@ -51,15 +51,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
 <div align="left">
   <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
-
+###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+###
 
 
