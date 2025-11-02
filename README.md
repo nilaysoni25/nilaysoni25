@@ -46,23 +46,22 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
+  <img alt="Among Us contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="left">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <a href="https://open.spotify.com/user/your_spotify_username" target="_blank">
+    <img src="https://img.icons8.com/color/48/spotify--v1.png" width="35" alt="spotify logo" />
+  </a>
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="85" />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-
