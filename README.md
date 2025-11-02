@@ -61,6 +61,13 @@
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
+  <img alt="Among Us contribution graph" src="https://raw.githubusercontent.com/nilaysoni25/nilaysoni25/output/among-us-contribution-graph.svg">
+</picture>
+
+###
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
